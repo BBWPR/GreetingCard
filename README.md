@@ -2,3 +2,4 @@
 ---
 Eine kleine Applikation für eine Glückwunschkarte
 ---
+Goodbye
